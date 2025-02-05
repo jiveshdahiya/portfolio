@@ -1,6 +1,7 @@
-# Data Scientist
+# Cost of Living Analysis
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Tools Used: Python, Pnadas, SQL, MySQL Workbench, Tableau
+![alt text](FILEDATA/Screenshot 2025-02-05 105701.png)
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
